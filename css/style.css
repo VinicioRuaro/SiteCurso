@@ -1,0 +1,119 @@
+body {
+    background-color:#090934 ;
+    background-image: linear-gradient(to right, 
+    #090934,#014758,#034F84, #014758, #090934);
+    
+}   
+
+h1{
+     
+    color: #F7DDD4;
+
+    background-image: linear-gradient(to right,   
+    #006666,#008080, #009999, #008080, #006666);
+
+    font-size: 500%;
+    text-align: center;
+    
+    border-style: solid;
+    border-radius: 55px;
+    border-color: #0c0c0c;
+    padding: 35px;
+    
+    margin: 30%;
+    margin-top: auto;
+    margin-bottom: 2%;
+   
+
+}
+
+h2{
+    color: #F7DDD4;
+    background-image: linear-gradient(to right,
+    #006666,#008080, #009999, #008080, #006666);
+
+    font-size: 300%;
+    text-align: center;
+    
+    border-style: double; 
+    border-radius: 45px;
+    border-color: #0c0c0c;
+    padding: 20px;
+    
+    
+    margin-left: 7%;
+    margin-right: 7% ;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+h3{
+    color: #F7DDD4;
+    background-image: linear-gradient(to right, 
+    #003366,#004080, #004d99, #004080, #003366);
+
+    font-size: 140%;
+    text-align: justify;
+
+    border-style: solid;
+    border-color: #0c0c0c;
+    padding: 0.5%;
+
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+h4{
+    color: #F7DDD4;
+
+    font-size: 300%;
+}
+
+h5{
+    color: #F7DDD4;
+
+    font-size: 300%;
+
+    background-image: linear-gradient(to right, 
+    #003366,#004080, #004d99, #004080, #003366);
+   
+    border-style: solid;
+    border-color: #0c0c0c;
+    padding: 0.5%;
+}
+
+h6{
+
+    
+}
+
+
+
+.img{
+    
+    background-size: contain;
+}
+
+.botaoImg{
+    background-image: linear-gradient(to right,   
+    #003366,#004080, #004d99, #004080, #003366);
+
+
+}
+
+.frame {
+    border:  gray 2px;
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+}
+
+.photo {
+    width: 85%;
+}
+
+table,th,td{border:1px solid}
+td,th{padding:7px ;}
+
+
